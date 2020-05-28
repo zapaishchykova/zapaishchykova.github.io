@@ -160,6 +160,14 @@ ul
 	text-align:justify;
 }
 
+.paper-title
+{
+}
+.paper-authors
+{
+	font-size:1.5em;
+}
+
 @media screen and (max-width: 48em) {
 	.right,.left
 	{
