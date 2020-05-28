@@ -17,6 +17,9 @@ body
 	line-height:1.4;
 	text-rendering:optimizeLegibility;
 }
+a {
+  color: rgba(0,0,0,.7);
+}
 
 .skill-set li:hover
 {
