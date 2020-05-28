@@ -89,14 +89,14 @@ h1
 
 .name-hero h1 em
 {
-	color:rgba(0,0,0,.3);
+	color:rgba(0,0,0,.7);
 	font-style:normal;
 	font-weight:700;
 }
 
 .name-hero p
 {
-	color:rgba(0,0,0,.5);
+	color:rgba(0,0,0,.7);
 	font-size:.75em;
 	line-height:1.5;
 	margin:0 8px 0 0;
@@ -123,7 +123,7 @@ h1
 
 .inner p
 {
-	color:rgba(0,0,0,.3);
+	color:rgba(0,0,0,.7);
 }
 
 .inner p em
