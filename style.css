@@ -41,7 +41,7 @@ h1
 	background-color:rgba(0,0,0,.025);
 	border-right:1px solid rgba(0,0,0,.05);
 	float:right;
-	height:40%;
+	height:100%;
 	margin-left:-1px;
 	min-width:256px;
 	position:fixed;
@@ -76,10 +76,10 @@ h1
 	background-size:100%;
   	background-position:0px;
 	border-radius:100%;
-	height:150px;
+	height:200px;
 	margin:0 auto;
 	position:relative;
-	width:150px;
+	width:200px;
 }
 
 .name-hero h1
@@ -147,6 +147,18 @@ ul
 	font-size:1em;
 	margin-top:-20px;
 	color:rgba(0,0,0,.6);
+}
+
+.skill-set li
+{
+	background:rgba(0,0,0,.75);
+	border-radius:5px;
+	color:#FFF;
+	display:inline-block;
+	list-style:none;
+	margin:15px 15px 0 0;
+	padding:10px;
+	text-align:justify;
 }
 
 @media screen and (max-width: 48em) {
